@@ -125,7 +125,7 @@ export function HeroSection() {
               className="w-80 h-80 md:w-[450px] md:h-[450px] rounded-2xl overflow-hidden shadow-[0_10px_40px_rgba(219,39,119,0.3)] border-4 border-white mb-8 bg-white"
             >
               <img 
-                src="/cou.jpeg" 
+                src="/cou.jpg" 
                 alt="Us together" 
                 className="w-full h-full object-cover"
               />

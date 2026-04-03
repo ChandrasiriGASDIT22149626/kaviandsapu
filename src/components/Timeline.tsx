@@ -9,25 +9,25 @@ const milestones = [
     date: 'The Beginning',
     title: 'The Day We Met',
     desc: 'Two strangers crossing paths, not knowing it would change everything.',
-    image: '/photo5.jpeg' 
+    image: '/cou.jpg' 
   },
   {
     date: 'First Sparks',
     title: 'Our First Date',
     desc: 'Nervous laughs, endless talking, and a connection that felt like home.',
-    image: '/photo2.jpeg'
+    image: '/photo9.jpg'
   },
   {
     date: 'Adventures',
     title: 'Our First Trip',
     desc: 'Exploring new places and making memories that will last a lifetime.',
-    image: '/photo3.jpeg'
+    image: '/photo8.jpg'
   },
   {
     date: 'Always',
     title: 'Today & Forever',
     desc: "Every day is a new adventure, and I wouldn't want it with anyone else.",
-    image: '/photo4.jpeg'
+    image: '/photo7.jpg'
   }
 ];
 

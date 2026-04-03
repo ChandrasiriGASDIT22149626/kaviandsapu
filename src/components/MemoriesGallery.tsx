@@ -5,27 +5,27 @@ import { Lightbox } from './Lightbox';
 // Update these paths to match the names of the PNG files you put in your public folder
 const images = [
   {
-    src: '/photo1.jpeg',
+    src: '/photo1.jpg',
     alt: 'Forest walk'
   },
   {
-    src: '/photo2.jpeg',
+    src: '/photo2.jpg',
     alt: 'Beach sunset'
   },
   {
-    src: '/photo3.jpeg',
+    src: '/photo3.jpg',
     alt: 'Ocean view'
   },
   {
-    src: '/photo4.jpeg',
+    src: '/photo4.jpg',
     alt: 'Into the woods'
   },
   {
-    src: '/photo5.jpeg',
+    src: '/photo5.jpg',
     alt: 'Mountain peak'
   },
   {
-    src: '/photo6.jpeg',
+    src: '/photo6.jpg',
     alt: 'Calm waters'
   }
 ];
